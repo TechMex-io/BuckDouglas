@@ -1,8 +1,8 @@
 <?php
 
 /* SETTINGS */
-$yourEmail = "donlimpicnm@gmail.com";
-$emailSubject = "Contact Form";
+$yourEmail = "buckdouglasmusic@gmail.com";
+$emailSubject = "Message from Website";
 
 if($_POST){
 
