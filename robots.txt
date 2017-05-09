@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+SITEMAP: http://www.buckdouglas.com/sitemap.txt
