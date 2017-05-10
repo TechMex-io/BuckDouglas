@@ -3063,7 +3063,7 @@ html:not(.page-loaded) .slides.animated.scroll .slide {
 /* embed video container for slides and popups */
 .embedVideo {
   position: relative;
-  padding-bottom: 56.25%;
+  /*padding-bottom: 56.25%;*/
   /* 16x9 */
   height: 0;
   overflow: hidden;
